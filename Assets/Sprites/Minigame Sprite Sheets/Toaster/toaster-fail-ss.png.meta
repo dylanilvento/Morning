@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 7e573e1f381d946158873686a32c3ab5
+timeCreated: 1454282848
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: toaster-fail-ss_0
+    21300002: toaster-fail-ss_1
+    21300004: toaster-fail-ss_2
+    21300006: toaster-fail-ss_3
+    21300008: toaster-fail-ss_4
+    21300010: toaster-fail-ss_5
+    21300012: toaster-fail-ss_6
+    21300014: toaster-fail-ss_7
+    21300016: toaster-fail-ss_8
+    21300018: toaster-fail-ss_9
+    21300020: toaster-fail-ss_10
+    21300022: toaster-fail-ss_11
+    21300024: toaster-fail-ss_12
+    21300026: toaster-fail-ss_13
+    21300028: toaster-fail-ss_14
+    21300030: toaster-fail-ss_15
+    21300032: toaster-fail-ss_16
+    21300034: toaster-fail-ss_17
+    21300036: toaster-fail-ss_18
+    21300038: toaster-fail-ss_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: toaster-fail-ss_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205, y: 82.25}
+        - {x: -205, y: -81.75}
+        - {x: 205, y: -81.75}
+        - {x: 205, y: 82.25}
+    - name: toaster-fail-ss_1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 864
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.625, y: 82.25}
+        - {x: -204.625, y: -81.75}
+        - {x: 205.375, y: -81.75}
+        - {x: 205.375, y: 82.25}
+    - name: toaster-fail-ss_2
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 864
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.75, y: 82.25}
+        - {x: -204.75, y: -81.75}
+        - {x: 206.25, y: -81.75}
+        - {x: 206.25, y: 82.25}
+    - name: toaster-fail-ss_3
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 864
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.875, y: 82.25}
+        - {x: -204.875, y: -81.75}
+        - {x: 205.125, y: -81.75}
+        - {x: 205.125, y: 82.25}
+    - name: toaster-fail-ss_4
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 864
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.5, y: 82.25}
+        - {x: -204.5, y: -81.75}
+        - {x: 205.5, y: -81.75}
+        - {x: 205.5, y: 82.25}
+    - name: toaster-fail-ss_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205, y: 83}
+        - {x: -205, y: -82}
+        - {x: 205, y: -82}
+        - {x: 205, y: 83}
+    - name: toaster-fail-ss_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.625, y: 83}
+        - {x: -204.625, y: -82}
+        - {x: 205.375, y: -82}
+        - {x: 205.375, y: 83}
+    - name: toaster-fail-ss_7
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 576
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.75, y: 83}
+        - {x: -204.75, y: -82}
+        - {x: 206.25, y: -82}
+        - {x: 206.25, y: 83}
+    - name: toaster-fail-ss_8
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 576
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.875, y: 83}
+        - {x: -204.875, y: -82}
+        - {x: 205.125, y: -82}
+        - {x: 205.125, y: 83}
+    - name: toaster-fail-ss_9
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 576
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.5, y: 83}
+        - {x: -204.5, y: -82}
+        - {x: 205.5, y: -82}
+        - {x: 205.5, y: 83}
+    - name: toaster-fail-ss_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205, y: 83.25}
+        - {x: -205, y: -81.75}
+        - {x: 205, y: -81.75}
+        - {x: 205, y: 83.25}
+    - name: toaster-fail-ss_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.625, y: 83.25}
+        - {x: -204.625, y: -81.75}
+        - {x: 205.375, y: -81.75}
+        - {x: 205.375, y: 83.25}
+    - name: toaster-fail-ss_12
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 288
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.75, y: 83.25}
+        - {x: -204.75, y: -81.75}
+        - {x: 206.25, y: -81.75}
+        - {x: 206.25, y: 83.25}
+    - name: toaster-fail-ss_13
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 288
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.875, y: 83.25}
+        - {x: -204.875, y: -81.75}
+        - {x: 205.125, y: -81.75}
+        - {x: 205.125, y: 83.25}
+    - name: toaster-fail-ss_14
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 288
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.5, y: 83.25}
+        - {x: -204.5, y: -81.75}
+        - {x: 205.5, y: -81.75}
+        - {x: 205.5, y: 83.25}
+    - name: toaster-fail-ss_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -205, y: 82}
+        - {x: -205, y: -82}
+        - {x: 205, y: -82}
+        - {x: 205, y: 82}
+    - name: toaster-fail-ss_16
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.625, y: 82}
+        - {x: -204.625, y: -82}
+        - {x: 205.375, y: -82}
+        - {x: 205.375, y: 82}
+    - name: toaster-fail-ss_17
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.75, y: 82}
+        - {x: -204.75, y: -82}
+        - {x: 206.25, y: -82}
+        - {x: 206.25, y: 82}
+    - name: toaster-fail-ss_18
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.875, y: 82}
+        - {x: -204.875, y: -82}
+        - {x: 205.125, y: -82}
+        - {x: 205.125, y: 82}
+    - name: toaster-fail-ss_19
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.5, y: 82}
+        - {x: -204.5, y: -82}
+        - {x: 205.5, y: -82}
+        - {x: 205.5, y: 82}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
