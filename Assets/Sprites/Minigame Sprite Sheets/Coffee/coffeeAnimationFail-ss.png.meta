@@ -1,37 +1,78 @@
 fileFormatVersion: 2
 guid: 7f674b08467154468b609e971efca3e3
-timeCreated: 1454282104
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: coffeeAnimationFail-ss_0
-    21300002: coffeeAnimationFail-ss_1
-    21300004: coffeeAnimationFail-ss_2
-    21300006: coffeeAnimationFail-ss_3
-    21300008: coffeeAnimationFail-ss_4
-    21300010: coffeeAnimationFail-ss_5
-    21300012: coffeeAnimationFail-ss_6
-    21300014: coffeeAnimationFail-ss_7
-    21300016: coffeeAnimationFail-ss_8
-    21300018: coffeeAnimationFail-ss_9
-    21300020: coffeeAnimationFail-ss_10
-    21300022: coffeeAnimationFail-ss_11
-    21300024: coffeeAnimationFail-ss_12
-    21300026: coffeeAnimationFail-ss_13
-    21300028: coffeeAnimationFail-ss_14
-    21300030: coffeeAnimationFail-ss_15
-    21300032: coffeeAnimationFail-ss_16
-    21300034: coffeeAnimationFail-ss_17
-    21300036: coffeeAnimationFail-ss_18
-    21300038: coffeeAnimationFail-ss_19
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: coffeeAnimationFail-ss_0
+  - first:
+      213: 21300002
+    second: coffeeAnimationFail-ss_1
+  - first:
+      213: 21300004
+    second: coffeeAnimationFail-ss_2
+  - first:
+      213: 21300006
+    second: coffeeAnimationFail-ss_3
+  - first:
+      213: 21300008
+    second: coffeeAnimationFail-ss_4
+  - first:
+      213: 21300010
+    second: coffeeAnimationFail-ss_5
+  - first:
+      213: 21300012
+    second: coffeeAnimationFail-ss_6
+  - first:
+      213: 21300014
+    second: coffeeAnimationFail-ss_7
+  - first:
+      213: 21300016
+    second: coffeeAnimationFail-ss_8
+  - first:
+      213: 21300018
+    second: coffeeAnimationFail-ss_9
+  - first:
+      213: 21300020
+    second: coffeeAnimationFail-ss_10
+  - first:
+      213: 21300022
+    second: coffeeAnimationFail-ss_11
+  - first:
+      213: 21300024
+    second: coffeeAnimationFail-ss_12
+  - first:
+      213: 21300026
+    second: coffeeAnimationFail-ss_13
+  - first:
+      213: 21300028
+    second: coffeeAnimationFail-ss_14
+  - first:
+      213: 21300030
+    second: coffeeAnimationFail-ss_15
+  - first:
+      213: 21300032
+    second: coffeeAnimationFail-ss_16
+  - first:
+      213: 21300034
+    second: coffeeAnimationFail-ss_17
+  - first:
+      213: 21300036
+    second: coffeeAnimationFail-ss_18
+  - first:
+      213: 21300038
+    second: coffeeAnimationFail-ss_19
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -40,37 +81,61 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: coffeeAnimationFail-ss_0
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_0
       rect:
         serializedVersion: 2
         x: 0
@@ -80,12 +145,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -205, y: 82.25}
-        - {x: -205, y: -81.75}
-        - {x: 205, y: -81.75}
-        - {x: 205, y: 82.25}
-    - name: coffeeAnimationFail-ss_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_1
       rect:
         serializedVersion: 2
         x: 720
@@ -95,12 +166,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.625, y: 82.25}
-        - {x: -204.625, y: -81.75}
-        - {x: 205.375, y: -81.75}
-        - {x: 205.375, y: 82.25}
-    - name: coffeeAnimationFail-ss_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_2
       rect:
         serializedVersion: 2
         x: 1440
@@ -110,12 +187,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.75, y: 82.25}
-        - {x: -204.75, y: -81.75}
-        - {x: 206.25, y: -81.75}
-        - {x: 206.25, y: 82.25}
-    - name: coffeeAnimationFail-ss_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_3
       rect:
         serializedVersion: 2
         x: 2160
@@ -125,12 +208,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.875, y: 82.25}
-        - {x: -204.875, y: -81.75}
-        - {x: 205.125, y: -81.75}
-        - {x: 205.125, y: 82.25}
-    - name: coffeeAnimationFail-ss_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_4
       rect:
         serializedVersion: 2
         x: 2880
@@ -140,12 +229,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.5, y: 82.25}
-        - {x: -204.5, y: -81.75}
-        - {x: 205.5, y: -81.75}
-        - {x: 205.5, y: 82.25}
-    - name: coffeeAnimationFail-ss_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_5
       rect:
         serializedVersion: 2
         x: 0
@@ -155,12 +250,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -205, y: 83}
-        - {x: -205, y: -82}
-        - {x: 205, y: -82}
-        - {x: 205, y: 83}
-    - name: coffeeAnimationFail-ss_6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_6
       rect:
         serializedVersion: 2
         x: 720
@@ -170,12 +271,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.625, y: 83}
-        - {x: -204.625, y: -82}
-        - {x: 205.375, y: -82}
-        - {x: 205.375, y: 83}
-    - name: coffeeAnimationFail-ss_7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_7
       rect:
         serializedVersion: 2
         x: 1440
@@ -185,12 +292,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.75, y: 83}
-        - {x: -204.75, y: -82}
-        - {x: 206.25, y: -82}
-        - {x: 206.25, y: 83}
-    - name: coffeeAnimationFail-ss_8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_8
       rect:
         serializedVersion: 2
         x: 2160
@@ -200,12 +313,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.875, y: 83}
-        - {x: -204.875, y: -82}
-        - {x: 205.125, y: -82}
-        - {x: 205.125, y: 83}
-    - name: coffeeAnimationFail-ss_9
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_9
       rect:
         serializedVersion: 2
         x: 2880
@@ -215,12 +334,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.5, y: 83}
-        - {x: -204.5, y: -82}
-        - {x: 205.5, y: -82}
-        - {x: 205.5, y: 83}
-    - name: coffeeAnimationFail-ss_10
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_10
       rect:
         serializedVersion: 2
         x: 0
@@ -230,12 +355,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -205, y: 83.25}
-        - {x: -205, y: -81.75}
-        - {x: 205, y: -81.75}
-        - {x: 205, y: 83.25}
-    - name: coffeeAnimationFail-ss_11
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_11
       rect:
         serializedVersion: 2
         x: 720
@@ -245,12 +376,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.625, y: 83.25}
-        - {x: -204.625, y: -81.75}
-        - {x: 205.375, y: -81.75}
-        - {x: 205.375, y: 83.25}
-    - name: coffeeAnimationFail-ss_12
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_12
       rect:
         serializedVersion: 2
         x: 1440
@@ -260,12 +397,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.75, y: 83.25}
-        - {x: -204.75, y: -81.75}
-        - {x: 206.25, y: -81.75}
-        - {x: 206.25, y: 83.25}
-    - name: coffeeAnimationFail-ss_13
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_13
       rect:
         serializedVersion: 2
         x: 2160
@@ -275,12 +418,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.875, y: 83.25}
-        - {x: -204.875, y: -81.75}
-        - {x: 205.125, y: -81.75}
-        - {x: 205.125, y: 83.25}
-    - name: coffeeAnimationFail-ss_14
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_14
       rect:
         serializedVersion: 2
         x: 2880
@@ -290,12 +439,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.5, y: 83.25}
-        - {x: -204.5, y: -81.75}
-        - {x: 205.5, y: -81.75}
-        - {x: 205.5, y: 83.25}
-    - name: coffeeAnimationFail-ss_15
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_15
       rect:
         serializedVersion: 2
         x: 0
@@ -305,12 +460,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -205, y: 82}
-        - {x: -205, y: -82}
-        - {x: 205, y: -82}
-        - {x: 205, y: 82}
-    - name: coffeeAnimationFail-ss_16
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_16
       rect:
         serializedVersion: 2
         x: 720
@@ -320,12 +481,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.625, y: 82}
-        - {x: -204.625, y: -82}
-        - {x: 205.375, y: -82}
-        - {x: 205.375, y: 82}
-    - name: coffeeAnimationFail-ss_17
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_17
       rect:
         serializedVersion: 2
         x: 1440
@@ -335,12 +502,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.75, y: 82}
-        - {x: -204.75, y: -82}
-        - {x: 206.25, y: -82}
-        - {x: 206.25, y: 82}
-    - name: coffeeAnimationFail-ss_18
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_18
       rect:
         serializedVersion: 2
         x: 2160
@@ -350,12 +523,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.875, y: 82}
-        - {x: -204.875, y: -82}
-        - {x: 205.125, y: -82}
-        - {x: 205.125, y: 82}
-    - name: coffeeAnimationFail-ss_19
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coffeeAnimationFail-ss_19
       rect:
         serializedVersion: 2
         x: 2880
@@ -365,14 +544,29 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.5, y: 82}
-        - {x: -204.5, y: -82}
-        - {x: -199.5, y: -82}
-        - {x: 205.5, y: 79}
-        - {x: 205.5, y: 82}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

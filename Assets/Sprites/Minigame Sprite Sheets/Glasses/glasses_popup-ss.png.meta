@@ -1,52 +1,123 @@
 fileFormatVersion: 2
 guid: 8c08a70d52fc547a48a3453eac808ce4
-timeCreated: 1454284276
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: glasses_popup-ss_0
-    21300002: glasses_popup-ss_1
-    21300004: glasses_popup-ss_2
-    21300006: glasses_popup-ss_3
-    21300008: glasses_popup-ss_4
-    21300010: glasses_popup-ss_5
-    21300012: glasses_popup-ss_6
-    21300014: glasses_popup-ss_7
-    21300016: glasses_popup-ss_8
-    21300018: glasses_popup-ss_9
-    21300020: glasses_popup-ss_10
-    21300022: glasses_popup-ss_11
-    21300024: glasses_popup-ss_12
-    21300026: glasses_popup-ss_13
-    21300028: glasses_popup-ss_14
-    21300030: glasses_popup-ss_15
-    21300032: glasses_popup-ss_16
-    21300034: glasses_popup-ss_17
-    21300036: glasses_popup-ss_18
-    21300038: glasses_popup-ss_19
-    21300040: glasses_popup-ss_20
-    21300042: glasses_popup-ss_21
-    21300044: glasses_popup-ss_22
-    21300046: glasses_popup-ss_23
-    21300048: glasses_popup-ss_24
-    21300050: glasses_popup-ss_25
-    21300052: glasses_popup-ss_26
-    21300054: glasses_popup-ss_27
-    21300056: glasses_popup-ss_28
-    21300058: glasses_popup-ss_29
-    21300060: glasses_popup-ss_30
-    21300062: glasses_popup-ss_31
-    21300064: glasses_popup-ss_32
-    21300066: glasses_popup-ss_33
-    21300068: glasses_popup-ss_34
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: glasses_popup-ss_0
+  - first:
+      213: 21300002
+    second: glasses_popup-ss_1
+  - first:
+      213: 21300004
+    second: glasses_popup-ss_2
+  - first:
+      213: 21300006
+    second: glasses_popup-ss_3
+  - first:
+      213: 21300008
+    second: glasses_popup-ss_4
+  - first:
+      213: 21300010
+    second: glasses_popup-ss_5
+  - first:
+      213: 21300012
+    second: glasses_popup-ss_6
+  - first:
+      213: 21300014
+    second: glasses_popup-ss_7
+  - first:
+      213: 21300016
+    second: glasses_popup-ss_8
+  - first:
+      213: 21300018
+    second: glasses_popup-ss_9
+  - first:
+      213: 21300020
+    second: glasses_popup-ss_10
+  - first:
+      213: 21300022
+    second: glasses_popup-ss_11
+  - first:
+      213: 21300024
+    second: glasses_popup-ss_12
+  - first:
+      213: 21300026
+    second: glasses_popup-ss_13
+  - first:
+      213: 21300028
+    second: glasses_popup-ss_14
+  - first:
+      213: 21300030
+    second: glasses_popup-ss_15
+  - first:
+      213: 21300032
+    second: glasses_popup-ss_16
+  - first:
+      213: 21300034
+    second: glasses_popup-ss_17
+  - first:
+      213: 21300036
+    second: glasses_popup-ss_18
+  - first:
+      213: 21300038
+    second: glasses_popup-ss_19
+  - first:
+      213: 21300040
+    second: glasses_popup-ss_20
+  - first:
+      213: 21300042
+    second: glasses_popup-ss_21
+  - first:
+      213: 21300044
+    second: glasses_popup-ss_22
+  - first:
+      213: 21300046
+    second: glasses_popup-ss_23
+  - first:
+      213: 21300048
+    second: glasses_popup-ss_24
+  - first:
+      213: 21300050
+    second: glasses_popup-ss_25
+  - first:
+      213: 21300052
+    second: glasses_popup-ss_26
+  - first:
+      213: 21300054
+    second: glasses_popup-ss_27
+  - first:
+      213: 21300056
+    second: glasses_popup-ss_28
+  - first:
+      213: 21300058
+    second: glasses_popup-ss_29
+  - first:
+      213: 21300060
+    second: glasses_popup-ss_30
+  - first:
+      213: 21300062
+    second: glasses_popup-ss_31
+  - first:
+      213: 21300064
+    second: glasses_popup-ss_32
+  - first:
+      213: 21300066
+    second: glasses_popup-ss_33
+  - first:
+      213: 21300068
+    second: glasses_popup-ss_34
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -55,37 +126,61 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: glasses_popup-ss_0
+    - serializedVersion: 2
+      name: glasses_popup-ss_0
       rect:
         serializedVersion: 2
         x: 0
@@ -95,12 +190,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -205, y: 82.04004}
-        - {x: -205, y: -81.95996}
-        - {x: 205, y: -81.95996}
-        - {x: 205, y: 82.04004}
-    - name: glasses_popup-ss_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_1
       rect:
         serializedVersion: 2
         x: 720
@@ -110,12 +211,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.9, y: 82.04004}
-        - {x: -204.9, y: -81.95996}
-        - {x: 206.1, y: -81.95996}
-        - {x: 206.1, y: 82.04004}
-    - name: glasses_popup-ss_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_2
       rect:
         serializedVersion: 2
         x: 1440
@@ -125,12 +232,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.79999, y: 82.04004}
-        - {x: -204.79999, y: -81.95996}
-        - {x: 205.20001, y: -81.95996}
-        - {x: 205.20001, y: 82.04004}
-    - name: glasses_popup-ss_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_3
       rect:
         serializedVersion: 2
         x: 2160
@@ -140,12 +253,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.69995, y: 82.04004}
-        - {x: -204.69995, y: -81.95996}
-        - {x: 206.30005, y: -81.95996}
-        - {x: 206.30005, y: 82.04004}
-    - name: glasses_popup-ss_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_4
       rect:
         serializedVersion: 2
         x: 2880
@@ -155,12 +274,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.59998, y: 82.04004}
-        - {x: -204.59998, y: -81.95996}
-        - {x: 205.40002, y: -81.95996}
-        - {x: 205.40002, y: 82.04004}
-    - name: glasses_popup-ss_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_5
       rect:
         serializedVersion: 2
         x: 0
@@ -170,12 +295,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -205, y: 82.70001}
-        - {x: -205, y: -82.29999}
-        - {x: 205, y: -82.29999}
-        - {x: 205, y: 82.70001}
-    - name: glasses_popup-ss_6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_6
       rect:
         serializedVersion: 2
         x: 720
@@ -185,12 +316,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.9, y: 82.70001}
-        - {x: -204.9, y: -82.29999}
-        - {x: 206.1, y: -82.29999}
-        - {x: 206.1, y: 82.70001}
-    - name: glasses_popup-ss_7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_7
       rect:
         serializedVersion: 2
         x: 1440
@@ -200,12 +337,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.79999, y: 82.70001}
-        - {x: -204.79999, y: -82.29999}
-        - {x: 205.20001, y: -82.29999}
-        - {x: 205.20001, y: 82.70001}
-    - name: glasses_popup-ss_8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_8
       rect:
         serializedVersion: 2
         x: 2160
@@ -215,12 +358,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.69995, y: 82.70001}
-        - {x: -204.69995, y: -82.29999}
-        - {x: 206.30005, y: -82.29999}
-        - {x: 206.30005, y: 82.70001}
-    - name: glasses_popup-ss_9
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_9
       rect:
         serializedVersion: 2
         x: 2880
@@ -230,12 +379,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.59998, y: 82.70001}
-        - {x: -204.59998, y: -82.29999}
-        - {x: 205.40002, y: -82.29999}
-        - {x: 205.40002, y: 82.70001}
-    - name: glasses_popup-ss_10
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_10
       rect:
         serializedVersion: 2
         x: 0
@@ -245,12 +400,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -205, y: 82.859985}
-        - {x: -205, y: -82.140015}
-        - {x: 205, y: -82.140015}
-        - {x: 205, y: 82.859985}
-    - name: glasses_popup-ss_11
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_11
       rect:
         serializedVersion: 2
         x: 720
@@ -260,12 +421,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.9, y: 82.859985}
-        - {x: -204.9, y: -82.140015}
-        - {x: 206.1, y: -82.140015}
-        - {x: 206.1, y: 82.859985}
-    - name: glasses_popup-ss_12
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_12
       rect:
         serializedVersion: 2
         x: 1440
@@ -275,12 +442,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.79999, y: 82.859985}
-        - {x: -204.79999, y: -82.140015}
-        - {x: 205.20001, y: -82.140015}
-        - {x: 205.20001, y: 82.859985}
-    - name: glasses_popup-ss_13
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_13
       rect:
         serializedVersion: 2
         x: 2160
@@ -290,12 +463,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.69995, y: 82.859985}
-        - {x: -204.69995, y: -82.140015}
-        - {x: 206.30005, y: -82.140015}
-        - {x: 206.30005, y: 82.859985}
-    - name: glasses_popup-ss_14
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_14
       rect:
         serializedVersion: 2
         x: 2880
@@ -305,12 +484,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.59998, y: 82.859985}
-        - {x: -204.59998, y: -82.140015}
-        - {x: 205.40002, y: -82.140015}
-        - {x: 205.40002, y: 82.859985}
-    - name: glasses_popup-ss_15
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_15
       rect:
         serializedVersion: 2
         x: 0
@@ -320,12 +505,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -205, y: 83.02002}
-        - {x: -205, y: -81.97998}
-        - {x: 205, y: -81.97998}
-        - {x: 205, y: 83.02002}
-    - name: glasses_popup-ss_16
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_16
       rect:
         serializedVersion: 2
         x: 720
@@ -335,12 +526,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.9, y: 83.02002}
-        - {x: -204.9, y: -81.97998}
-        - {x: 206.1, y: -81.97998}
-        - {x: 206.1, y: 83.02002}
-    - name: glasses_popup-ss_17
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_17
       rect:
         serializedVersion: 2
         x: 1440
@@ -350,12 +547,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.79999, y: 83.02002}
-        - {x: -204.79999, y: -81.97998}
-        - {x: 205.20001, y: -81.97998}
-        - {x: 205.20001, y: 83.02002}
-    - name: glasses_popup-ss_18
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_18
       rect:
         serializedVersion: 2
         x: 2160
@@ -365,12 +568,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.69995, y: 83.02002}
-        - {x: -204.69995, y: -81.97998}
-        - {x: 206.30005, y: -81.97998}
-        - {x: 206.30005, y: 83.02002}
-    - name: glasses_popup-ss_19
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_19
       rect:
         serializedVersion: 2
         x: 2880
@@ -380,12 +589,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.59998, y: 83.02002}
-        - {x: -204.59998, y: -81.97998}
-        - {x: 205.40002, y: -81.97998}
-        - {x: 205.40002, y: 83.02002}
-    - name: glasses_popup-ss_20
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_20
       rect:
         serializedVersion: 2
         x: 0
@@ -395,12 +610,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -205, y: 83.17999}
-        - {x: -205, y: -81.82001}
-        - {x: 205, y: -81.82001}
-        - {x: 205, y: 83.17999}
-    - name: glasses_popup-ss_21
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_21
       rect:
         serializedVersion: 2
         x: 720
@@ -410,12 +631,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.9, y: 83.17999}
-        - {x: -204.9, y: -81.82001}
-        - {x: 206.1, y: -81.82001}
-        - {x: 206.1, y: 83.17999}
-    - name: glasses_popup-ss_22
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_22
       rect:
         serializedVersion: 2
         x: 1440
@@ -425,12 +652,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.79999, y: 83.17999}
-        - {x: -204.79999, y: -81.82001}
-        - {x: 205.20001, y: -81.82001}
-        - {x: 205.20001, y: 83.17999}
-    - name: glasses_popup-ss_23
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_23
       rect:
         serializedVersion: 2
         x: 2160
@@ -440,12 +673,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.69995, y: 83.17999}
-        - {x: -204.69995, y: -81.82001}
-        - {x: 206.30005, y: -81.82001}
-        - {x: 206.30005, y: 83.17999}
-    - name: glasses_popup-ss_24
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_24
       rect:
         serializedVersion: 2
         x: 2880
@@ -455,12 +694,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.59998, y: 83.17999}
-        - {x: -204.59998, y: -81.82001}
-        - {x: 205.40002, y: -81.82001}
-        - {x: 205.40002, y: 83.17999}
-    - name: glasses_popup-ss_25
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_25
       rect:
         serializedVersion: 2
         x: 0
@@ -470,12 +715,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -205, y: 83.34}
-        - {x: -205, y: -81.66}
-        - {x: 205, y: -81.66}
-        - {x: 205, y: 83.34}
-    - name: glasses_popup-ss_26
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_26
       rect:
         serializedVersion: 2
         x: 720
@@ -485,12 +736,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.9, y: 83.34}
-        - {x: -204.9, y: -81.66}
-        - {x: 206.1, y: -81.66}
-        - {x: 206.1, y: 83.34}
-    - name: glasses_popup-ss_27
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_27
       rect:
         serializedVersion: 2
         x: 1440
@@ -500,12 +757,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.79999, y: 83.34}
-        - {x: -204.79999, y: -81.66}
-        - {x: 205.20001, y: -81.66}
-        - {x: 205.20001, y: 83.34}
-    - name: glasses_popup-ss_28
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_28
       rect:
         serializedVersion: 2
         x: 2160
@@ -515,12 +778,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.69995, y: 83.34}
-        - {x: -204.69995, y: -81.66}
-        - {x: 206.30005, y: -81.66}
-        - {x: 206.30005, y: 83.34}
-    - name: glasses_popup-ss_29
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_29
       rect:
         serializedVersion: 2
         x: 2880
@@ -530,12 +799,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.59998, y: 83.34}
-        - {x: -204.59998, y: -81.66}
-        - {x: 205.40002, y: -81.66}
-        - {x: 205.40002, y: 83.34}
-    - name: glasses_popup-ss_30
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_30
       rect:
         serializedVersion: 2
         x: 0
@@ -545,12 +820,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -205, y: 82}
-        - {x: -205, y: -82}
-        - {x: 205, y: -82}
-        - {x: 205, y: 82}
-    - name: glasses_popup-ss_31
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_31
       rect:
         serializedVersion: 2
         x: 720
@@ -560,12 +841,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.9, y: 82}
-        - {x: -204.9, y: -82}
-        - {x: 206.1, y: -82}
-        - {x: 206.1, y: 82}
-    - name: glasses_popup-ss_32
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_32
       rect:
         serializedVersion: 2
         x: 1440
@@ -575,12 +862,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.79999, y: 82}
-        - {x: -204.79999, y: -82}
-        - {x: 205.20001, y: -82}
-        - {x: 205.20001, y: 82}
-    - name: glasses_popup-ss_33
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_33
       rect:
         serializedVersion: 2
         x: 2160
@@ -590,12 +883,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -204.69995, y: 82}
-        - {x: -204.69995, y: -82}
-        - {x: 206.30005, y: -82}
-        - {x: 206.30005, y: 82}
-    - name: glasses_popup-ss_34
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: glasses_popup-ss_34
       rect:
         serializedVersion: 2
         x: 2880
@@ -605,13 +904,29 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -201.59998, y: -82}
-        - {x: -201.59998, y: 82}
-        - {x: -204.59998, y: 82}
-        - {x: -204.59998, y: -82}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
