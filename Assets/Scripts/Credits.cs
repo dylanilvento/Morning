@@ -3,7 +3,9 @@ using System.Collections;
 using UnityEngine.UI;
 
 public class Credits : MonoBehaviour {
+	[TextAreaAttribute]
 	public string[] passStrings = new string[9];
+	[TextAreaAttribute]
 	public string[] failStrings = new string[9];
 	bool[] results = new bool[9];
 

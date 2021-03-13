@@ -3,6 +3,7 @@ using System.Collections;
 using UnityEngine.UI;
 using UnityEngine.Analytics;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 
 public class Intro : MonoBehaviour {
 
@@ -11,6 +12,8 @@ public class Intro : MonoBehaviour {
 	SpriteRenderer bg;
 
 	bool canPlay = false;
+
+	//AsyncOperation loading;
 
 	public Text[] startText = new Text[8]; //index 6 is title
 
@@ -31,18 +34,31 @@ public class Intro : MonoBehaviour {
 		}
 
 		//bool gameStarted = true;
-		Analytics.CustomEvent("gameStart", new Dictionary<string, object> 
-			{
-				{ "gameStarted", true }
+		//Analytics.CustomEvent("gameStart", new Dictionary<string, object> 
+		//	{
+		//		{ "gameStarted", true }
 
-			});
+		//	});
+
+		//loading = SceneManager.LoadSceneAsync(1);
 
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetKeyDown("space") && canPlay) {
-			Application.LoadLevel(1);
+			StartCoroutine(LoadingScene());
+		}
+	}
+
+	IEnumerator LoadingScene()
+    {
+
+		AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(1);
+
+		while (!asyncLoad.isDone)
+		{
+			yield return null;
 		}
 	}
 

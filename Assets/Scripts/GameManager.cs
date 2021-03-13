@@ -199,11 +199,11 @@ public class GameManager : MonoBehaviour {
 		mainCam.enabled = false;
 		creditCam.enabled = true;
 
-		Analytics.CustomEvent("gameCompleted", new Dictionary<string, object> 
-			{
-				{ "gameCompleted", true }
+		//Analytics.CustomEvent("gameCompleted", new Dictionary<string, object> 
+		//	{
+		//		{ "gameCompleted", true }
 
-			});
+		//	});
 
 		credits.StartCredits(actions);
 	}
